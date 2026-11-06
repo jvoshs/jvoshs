@@ -3,7 +3,7 @@
 **What I'm working on**
 
 - [joshuashinmar.com](https://joshuashinmar.com): my personal site. Plain HTML and JavaScript on Cloudflare Pages, with a small database behind it for notes, a contact form and private pages for employers.
-- [Share to Notes](https://github.com/jvoshs/share-to-notes): share a link from your phone and get a tidy, searchable note a few minutes later. Python on GitHub Actions, a Cloudflare Worker inbox, Whisper and Gemini for the AI, and Notion sync. Runs entirely on free tiers. Open source under MIT.
+- [Distil](https://github.com/jvoshs/distil): for everything you save and never look at again. Share it from your phone, and it becomes a note you and your AI assistant can actually search. Free and open source.
 
 **Find me**
 
